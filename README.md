@@ -30,7 +30,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/jairgonzales3/RyuBot-MD2 && cd RyuBot-MD2
+git clone https://github.com/Franzua25/TheZero-MD2 && cd TheZero-MD2
 ```
 
 ```bash
@@ -57,7 +57,7 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd RyuBot-MD2
+> cd Thezero-MD2
 > npm start
 ```
 
@@ -66,7 +66,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd RyuBot-MD2
+> cd TheZero-MD2
 > rm -rf Richetti
 > npm start
 ```
