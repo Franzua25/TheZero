@@ -122,11 +122,11 @@ global.vs = '1.4.9'
 global.vsJB = '2.0'
 
 global.gt = 'TheZero'
-global.yt = 'https://www.instagram.com/ventas_bots.TheZero'
-global.yt2 = 'https://www.instagram.com/ventas_bots.TheZero'
-global.ig = 'https://www.instagram.com/ventas_bots.TheZero'
-global.md = 'https://www.instagram.com/ventas_bots.TheZero'
-global.fb = 'https://www.instagram.com/ventas_bots.TheZero'
+global.yt = 'https://www.instagram.com/emx._xit'
+global.yt2 = 'https://www.instagram.com/emx._xit'
+global.ig = 'https://www.instagram.com/emx._xit'
+global.md = 'https://www.instagram.com/emx._xit'
+global.fb = 'https://www.instagram.com/emx._xit'
 
 global.nna = 'https://chat.whatsapp.com/CRB4MwGDOjr9l0VCYTyPQq' //UPDATE GATABOT
 global.nna2 = 'https://chat.whatsapp.com/CRB4MwGDOjr9l0VCYTyPQq' //Help
